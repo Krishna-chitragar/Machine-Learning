@@ -1,0 +1,19 @@
+datasets   
+adding tools 
+Feature or independent variable and dependant variables vector
+a:b a include b exclude .indexes selecet
+feature scaling to avoid dominating models
+train is to train the model and test is used only to test the trained one and it is used only in production
+fit is a function to connect the object of the  class imported to the dataset set that is to be trained ...model used to train
+ML model...... regression model: Lineareh 
+Regression: ordinary least squares methon for simple Linear Regession
+
+
+
+
+
+
+
+
+
+mac why mac ip cant we do it ?
